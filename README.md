@@ -1,1 +1,1 @@
-# brainscores.githhub.io
+# brainchat.github.io
